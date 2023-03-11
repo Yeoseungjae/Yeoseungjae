@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yeoseungjae
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning JavaScript, html, springboot
+- 🌱 I work as a BackEnd Developer for a IT company
 - 📫 How to reach me dutmdwo98@gmail.com
 
 <!---
